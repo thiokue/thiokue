@@ -7,7 +7,7 @@ Programador colaborativo, comunicativo e técnico. Orientado a solução de prob
 <br>
 
  <div align="center">
-  <a href="https://github.com/NicSouza">
+  <a href="https://github.com/thiokue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiokue&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiokue&layout=compact&langs_count=7&theme=cobalt2"/>  
 </div>
