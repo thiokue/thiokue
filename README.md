@@ -1,6 +1,6 @@
 # Olá, meu nome é Thiago! 
 
-Sou um graduando de Ciência da Computação de 26 anos, proficiente em Python, e suas bibliotecas/frameworks voltadas para dados, também tenho conhecimento em desenvolvimento web, fullstack. 
+Sou um graduando de Ciência da Computação de 28 anos, proficiente em Python, e suas bibliotecas/frameworks voltadas para dados, também tenho conhecimento em desenvolvimento web, fullstack. 
 
 Programador colaborativo, comunicativo e técnico. Orientado a solução de problemas, com experiência em criar e manter softwares para automação de processos, dashboards e webscraping.
 
